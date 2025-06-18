@@ -1,0 +1,12 @@
+C:\Users\cadet\Desktop\01.Git>git log
+commit a13de58777cb25da32ffb0b661901e1672b46738 (HEAD -> main)
+Author: Yazawa <yazawa@assistvision.co.jp>
+Date:   Tue Jun 17 09:31:34 2025 +0900
+
+    second commit
+
+commit 115d778428cd7e483ea16c7a3897f19a71158596
+Author: Yazawa <yazawa@assistvision.co.jp>
+Date:   Tue Jun 17 09:27:58 2025 +0900
+
+    first commit

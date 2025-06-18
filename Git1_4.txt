@@ -1,0 +1,14 @@
+C:\Users\cadet\Desktop\01.Git>git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   git.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Git1_1.txt
+        Git1_2.txt
+        Git1_3.txt

@@ -1,0 +1,1 @@
+C:\Users\cadet\Desktop\01.Git>git add git.txt

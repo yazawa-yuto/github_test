@@ -1,0 +1,4 @@
+C:\Users\cadet>cd C:\Users\cadet\Desktop\01.Git
+
+C:\Users\cadet\Desktop\01.Git>git init
+Initialized empty Git repository in C:/Users/cadet/Desktop/01.Git/.git/

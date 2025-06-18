@@ -1,0 +1,9 @@
+C:\Users\cadet\Desktop\01.Git>git diff 115d778428cd7e483ea16c7a3897f19a71158596 a13de58777cb25da32ffb0b661901e1672b46738
+diff --git a/git.txt b/git.txt
+index 1fcc4ab..bd19c65 100644
+--- a/git.txt
++++ b/git.txt
+@@ -1 +1 @@
+-HELLO WORLD
+\ No newline at end of file
++HELLO WORLD"HELLO WORLD"

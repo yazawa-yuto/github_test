@@ -1,0 +1,5 @@
+C:\Users\cadet\Desktop\01.Git>git add git.txt
+
+C:\Users\cadet\Desktop\01.Git>git commit -m "second commit"
+[main a13de58] second commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)

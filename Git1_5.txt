@@ -1,0 +1,4 @@
+C:\Users\cadet\Desktop\01.Git>git commit -m "first commit"
+[main (root-commit) 115d778] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 git.txt
